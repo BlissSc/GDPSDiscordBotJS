@@ -1,0 +1,26 @@
+{
+  "name": "GDPSBOT",
+  "version": "0.0.1",
+  "description": "By Bliss",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "node-fetch": "^2.6.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/BlissSc/GDPSDiscordBotJS"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
