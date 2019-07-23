@@ -1,0 +1,5 @@
+{
+    "token": "YOUR BOT TOKEN",
+    "secret": "CLIENT SECRET FROM YOUR APP",
+    "prefix": "!."
+}
